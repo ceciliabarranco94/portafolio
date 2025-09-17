@@ -1,6 +1,6 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![imagen]
+![Pantalla-inicial](./assets/pantalla-inicial.png)
 ## Herramientas utilizadas:
 
 * HTML
@@ -14,3 +14,5 @@
 ### Cecilia Barranco
 
 ### Linkedin: https://www.linkedin.com/in/cecilia-barranco-sanchez/
+
+
